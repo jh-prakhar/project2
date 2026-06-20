@@ -1,3 +1,3 @@
 # Profile
 
-This is just a sample to test of the chnages done correctly.
+This is just a sample to test of the changes done correctly.
